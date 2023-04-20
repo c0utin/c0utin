@@ -1,6 +1,6 @@
 ## Hello i´m Rafael Montenegro
 <p>Computer science student at INTELI</p>
-<p>Hacking, anime and tech stuff</p>
+
 
 
 <div>
