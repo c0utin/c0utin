@@ -1,6 +1,6 @@
 ## Hello i´m Rafael Montenegro
 <p>Computer science student at INTELI</p>
-<P>Ethical Hacker, DevOps, Netkork administrator and Sofware engineer</p>
+<P>Ethical Hacker, Netkork administrator and Sofware engineer</p>
 
 
 <div>
