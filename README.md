@@ -15,8 +15,8 @@
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
   <img align="center" alt="Rafa-Kali" height="30" width="40" src="https://raw.githubusercontent.com/lukas-w/font-logos/7f4c5a21ce7f71f30c082c4c28b57cf38f464912/vectors/kali-linux.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50 px;" src="https://media.licdn.com/dms/image/D4D03AQFZLnTySOVCtA/profile-displayphoto-shrink_800_800/0/1682441576746?e=1694649600&v=beta&t=Df9mcEkMr6vJ8BDnX6el7JxuJ-aKDFZqri6dNlPZFhs">
 </div>
