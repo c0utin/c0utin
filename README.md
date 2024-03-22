@@ -9,6 +9,7 @@
   * Web dev (full-stack)
   * Computer network
   * Blockchain
+  * Javascript guy
   * Python hater
   * Vscode ENEMY 
   
