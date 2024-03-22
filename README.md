@@ -1,8 +1,18 @@
-# Rafael Coutinho
-
-I'm the Arch enthusiast who's deeply immersed in computer networks and finds joy in coding with C and Go. My primary aim? To have a blast and craft some seriously cool stuff. I'm all about understanding the fundamental aspects of things, especially in the realm of computing. I might not know it all, but I'm all about embracing my curiosity and diving into anything that piques my interest. Oh, and guess what? I also do web development. >.<
+  I'm the Arch guy who's deeply into computer networks and gets a kick out of coding in C and Go. My main goal is simply to have fun and create cool stuff that rocks.
   
-<div style="display: inline_block"><br>
+  <blockquote>
+  <p>"In the world of coding, clarity is king, and simplicity reigns supreme." - Donald Knuth</p>
+  </blockquote>
+
+  
+  * Arch user
+  * Web dev (full-stack)
+  * Computer network
+  * Blockchain
+  * Python hater
+  * Vscode ENEMY 
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">    
   <img align="center" alt="Rafa-emacs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" />
   <img align="center" alt="Rafa-Kali" height="30" width="40" src="https://raw.githubusercontent.com/lukas-w/font-logos/7f4c5a21ce7f71f30c082c4c28b57cf38f464912/vectors/kali-linux.svg">
