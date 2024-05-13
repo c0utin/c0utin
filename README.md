@@ -1,4 +1,4 @@
-  I'm the Arch guy who's deeply into computer networks and gets a kick out of coding in C and Go. My main goal is simply to have fun and create cool stuff that rocks.
+  I'm the Arch guy who's deeply into computer networks and gets a kick out of coding. My main goal is simply to have fun and create cool stuff that rocks.
   
   <blockquote>
   <p>"In the world of coding, clarity is king, and simplicity reigns supreme." - Donald Knuth</p>
