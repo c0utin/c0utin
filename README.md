@@ -1,17 +1,12 @@
-  I'm the Arch guy who's deeply into computer networks and gets a kick out of coding. My main goal is simply to have fun and create cool stuff that rocks.
-  
   <blockquote>
   <p>"In the world of coding, clarity is king, and simplicity reigns supreme." - Donald Knuth</p>
   </blockquote>
 
-  
-  * Arch user
-  * Web dev (full-stack)
-  * Computer network
+  * Arch btw
+  * Computer networks
   * Blockchain
-  * Javascript guy
+  * Web dev (full-stack)
   * low code hater (python)
-  * Vscode ENEMY
   * Skill Issue
   * Vimmer chad
   
@@ -24,7 +19,6 @@
   <img align="center" alt="Rfa-Rust" height="30" width="40" src="https://camo.githubusercontent.com/20451fe1d8ce483d00ad98522f29d10659cff5cc051870f72a6c4241bc9806b7/68747470733a2f2f72757374616365616e2e6e65742f6173736574732f72757374616365616e2d666c61742d6e6f736861646f772e737667">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 </div>
  
  ##
