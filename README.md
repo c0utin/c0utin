@@ -1,4 +1,4 @@
-# Hokage C0utin
+# hokage of coding.
 
   <blockquote>
   <p>"In the world of coding, clarity is king, and simplicity reigns supreme." - Donald Knuth</p>
