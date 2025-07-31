@@ -1,4 +1,4 @@
-# hokage of coding.
+# nerd.
 
 <div>
 - <a href="https://c0utin.github.io/coutin-me/">Me</a>
